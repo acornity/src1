@@ -1,1 +1,2 @@
-Sitemap: https://teal-worm.cloudvent.net/sitemap.xml
+User-agent: *
+Sitemap: https://proud-alligator.cloudvent.net/sitemap.xml
